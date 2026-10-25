@@ -1,0 +1,21 @@
+{
+  "name": "Грибная Полянка — Учим Грибы",
+  "short_name": "Грибная Полянка",
+  "description": "Интерактивная обучающая игра для детей 4-5 лет: съедобные и несъедобные грибы, викторины, загадки.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071712",
+  "theme_color": "#071712",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
